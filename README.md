@@ -1,4 +1,3 @@
-elk-mongodb-cheatsheet
-======================
+# Cheatsheets
+This is a collection of cheatsheets for different technologies I use.
 
-Cheatsheet for operating Elasticsearch and the River MongoDB plugin
